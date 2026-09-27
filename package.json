@@ -1,7 +1,7 @@
 {
   "name": "personal-homepage",
   "version": "1.0.0",
-  "description": "Personal homepage with information such as skills, experience, courses, and more.",
+  "description": "Personal homepage with information about my courses, skills and experiences.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
   },
   "keywords": [],
   "author": "Deepika Arulselvan",
+  "icon": "/images/page-icon.png",
   "license": "MIT",
   "type": "module",
   "bugs": {

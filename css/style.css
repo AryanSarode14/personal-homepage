@@ -1,0 +1,98 @@
+body {
+    background-color: #FFE6FF;
+}
+
+p {
+   color: #984eb8;
+   animation-duration: 2s;
+   animation-name: slide-in-from-right;
+}
+
+.header {
+    background-color: #FFE6FF;
+    color: #A456C6;
+    padding: 3% 5% 3% 5%;
+}
+
+.content {
+    background-color: #FFE6FF;
+    color: #8A3DAB;
+    padding: 0% 5% 5% 5%;
+}
+
+/* Button */
+.btn-sm {
+    background-color: #C67EE5;
+    border-color: #8A3DAB;
+}
+
+/* Navigation Bar */
+.nav-pills {
+    background-color: #C67EE5;
+}
+
+.nav-item {
+    color: white;
+}
+
+.nav-link-active {
+    background-color: #A456C6;
+}
+
+/* Card */
+.card {
+    background-color: #f6d2ff;
+    animation-duration: 3s;
+    animation-name: appear;
+}
+
+.col {
+    padding: 0% 5% 2% 5%;
+}
+
+.card-title {
+    color: #763b90;
+}
+
+.text-bg-primary {
+    background-color: #C67EE5;
+}
+
+img {
+    width: 10%;
+    padding: 1% 1% 1% 0%;
+    background-color: #FFE6FF;
+    animation-duration: 2s;
+    animation-name: slide-in-from-left;
+}
+
+/* Animations */
+@keyframes slide-in-from-left {
+    from {
+        translate: -15vw 0;
+    }
+
+    to {
+        translate: 0 0;
+    }
+}
+
+@keyframes slide-in-from-right {
+    from {
+        translate: 15vw 0;
+    }
+
+    to {
+        translate: 0 0;
+    }
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 100;
+    }
+}

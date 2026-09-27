@@ -12,19 +12,9 @@ A simple homepage made with HTML, CSS, and Javascript. Includes information such
 
 **Original Component:** I added animations to some elements using CSS.
 
-## Screenshots of Webpage
+## GIF of Webpage
 
-**Main page**
-
-![Screenshot of main page](images/main-page.png)
-
-**Courses page**
-
-![Screenshot of courses page](images/courses-page.png)
-
-**Experience page**
-
-![Screenshot of experience page](images/experience-page.png)
+![GIF of personal webpage](images/webpage.gif)
 
 ## Gen AI use
 

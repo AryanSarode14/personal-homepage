@@ -1,15 +1,19 @@
 # Deepika Arulselvan Personal Home Page
+
 A simple homepage made with HTML, CSS, and Javascript. Includes information such as my courses, skills, and experience. Created for Web Development course at Northeastern University.
 
 **Author:** Deepika Arulselvan
 
+**Public Page:** https://deepikarul.github.io/personal-homepage/
+
 **Class Link:** https://johnguerra.co/classes/webDevelopment_online_fall_2026/index.html
 
-**Project Objective:** Implement a front-end only static homepage using vanilla HTML5, CSS3 and ES6+. 
+**Project Objective:** Implement a front-end only static homepage using vanilla HTML5, CSS3 and ES6+.
 
 **Original Component:** I added animations to some elements using CSS.
 
 ## Screenshots of Webpage
+
 **Main page**
 
 ![Screenshot of main page](images/main-page.png)
